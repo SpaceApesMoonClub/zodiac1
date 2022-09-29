@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x92bEB642ce42CCa6112340F014A1C6E2944F30e0",
+  "SCAN_LINK": "https://etherscan.io/address/0x92beb642ce42cca6112340f014a1c6e2944f30e0",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "The Zodiacs Club",
+  "SYMBOL": "ZODC",
+  "MAX_SUPPLY": 3333,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 0.1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-zodiacs-club",
+  "SHOW_BACKGROUND": true
+}
